@@ -1,1 +1,1 @@
-# the-great-big-social
+# The Great Big Social
