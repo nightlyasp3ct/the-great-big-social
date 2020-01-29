@@ -1,1 +1,1 @@
-# The Great Big Social
+# The Great Big Social Client
